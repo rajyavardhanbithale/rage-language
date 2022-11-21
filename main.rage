@@ -1,0 +1,9 @@
+`Hello`
+
+r.out ;Hello World;
+r.log.error ;नमस्ते दुनिया;
+r.log.success ;Привет, мир;
+
+
+
+
